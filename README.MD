@@ -2,4 +2,4 @@
 --------------------------------------------------------------
 
 Screenshot:
-![Screenshot](../asadkhan1776_dunzo_interview_product-list-app_screenshot.jpg)
+![Screenshot](asadkhan1776_dunzo_interview_product-list-app_screenshot.jpg)
